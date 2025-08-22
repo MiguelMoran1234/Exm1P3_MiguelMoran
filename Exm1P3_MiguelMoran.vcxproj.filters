@@ -18,12 +18,12 @@
     <ClCompile Include="Exm1P3_MiguelMoran.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Estacionamiento.cpp">
+    <ClCompile Include="Carro.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Estacionamiento.h">
+    <ClInclude Include="Carro.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
